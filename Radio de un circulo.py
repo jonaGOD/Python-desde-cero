@@ -1,4 +1,4 @@
-pi = 3.1416
+import math
 radio = float(input("Ingrese el radio del círculo: "))
-area = pi * radio ** 2
+area = math.pi * radio ** 2
 print("El área del círculo es:", area)
