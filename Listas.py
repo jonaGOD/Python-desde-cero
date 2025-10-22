@@ -28,3 +28,11 @@ lista.insert(2, "Palta")
 print(lista)
 lista.extend(lista2) # Tambien puede hacerse con Tuplas.
 print(lista)
+lista.remove("Anana") # Borra la primera ocurrencia del valor, si este esta duplicado.
+print(lista)
+lista.pop(1) # Borra el valor indicado.
+print(lista)
+del lista[-1] # Borra el valor indicado.
+print(lista)
+lista.clear() # Limpia/Vacia la lista.
+print(lista)
