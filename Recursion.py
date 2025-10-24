@@ -18,7 +18,7 @@ def suma(a,b):
 
     Args:
         a (int): Primer numero a sumar.
-        b (int): Segundo numeor a sumar.
+        b (int): Segundo numero a sumar.
 
     Returns:
         int: La suma de los dos numeros
